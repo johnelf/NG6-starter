@@ -180,3 +180,6 @@ enjoy — **AngularClass**
 ##[AngularClass](https://angularclass.com)
 > Learn AngularJS, Angular 2, and Modern Web Development from the best.
 > Looking for corporate Angular training, want to host us, or Angular consulting? hello@angularclass.com
+
+
+## Trigger build
